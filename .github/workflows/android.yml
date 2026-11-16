@@ -2,7 +2,7 @@ name: Android MVVM
 on:
   workflow_dispatch:
   push:
-    branches: ['feat/android-web-visual']
+    branches: ['main', 'feat/android-web-visual']
   pull_request:
 permissions:
   contents: read
