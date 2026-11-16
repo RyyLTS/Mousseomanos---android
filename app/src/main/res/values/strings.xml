@@ -1,0 +1,43 @@
+<resources>
+    <string name="api_padrao" translatable="false">https://api-mousseomanos-cwcgh6ghh9gvh8cj.brazilsouth-01.azurewebsites.net/</string>
+
+    <string name="brand_name">X-SQUAD</string>
+    <string name="brand_subtitle">HAMBURGUERIA</string>
+    <string name="brand_mark">X</string>
+    <string name="connect">Configurar conexão</string>
+    <string name="hero_eyebrow">NA CHAPA. NO CAPRICHO.</string>
+    <string name="hero_title">BURGER DE\nRESPEITO.</string>
+    <string name="hero_accent">SABOR DE SQUAD.</string>
+    <string name="hero_copy">Seu próximo favorito está aqui.</string>
+    <string name="hero_cta">ESCOLHER MEU BURGER  →</string>
+    <string name="menu_eyebrow">ESCOLHA SEU PRÓXIMO FAVORITO</string>
+    <string name="menu_title">Nosso cardápio</string>
+    <string name="search">Qual é a sua fome hoje?</string>
+    <string name="form_title">Novo produto</string>
+    <string name="form_eyebrow">DO SEU JEITO</string>
+    <string name="name_label">Nome do item</string>
+    <string name="name_hint">Ex.: X-Bacon</string>
+    <string name="category_label">Categoria</string>
+    <string name="category_hint">Ex.: Hambúrgueres</string>
+    <string name="description_label">Descrição</string>
+    <string name="description_hint">Conte o que faz esse item especial</string>
+    <string name="price_label">Preço (R$)</string>
+    <string name="price_hint">0,00</string>
+    <string name="available">Disponível para pedidos</string>
+    <string name="save">Cadastrar item</string>
+    <string name="clear">Limpar formulário</string>
+    <string name="refresh">Atualizar</string>
+    <string name="client_label">Seu nome ou mesa</string>
+    <string name="client_hint">Ex.: Ana · Mesa 4</string>
+    <string name="note_label">Observação (opcional)</string>
+    <string name="note_hint">Ex.: Sem cebola</string>
+    <string name="confirm">CONFIRMAR PEDIDO  →</string>
+    <string name="checkout_eyebrow">SEUS FAVORITOS, REUNIDOS</string>
+    <string name="cart_hint">Confira os itens e as quantidades antes de confirmar.</string>
+    <string name="photos_note">Imagens ilustrativas. Seu burger, do seu jeito.</string>
+    <string name="nav_menu">Cardápio</string>
+    <string name="nav_manage">Gerenciar</string>
+    <string name="nav_cart">Carrinho</string>
+    <string name="nav_orders">Pedidos</string>
+    <string name="summary">Ver meu pedido</string>
+</resources>

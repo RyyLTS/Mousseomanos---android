@@ -1,0 +1,6 @@
+<resources>
+    <color name="bg">#100D0C</color><color name="surface">#1B1715</color>
+    <color name="surface_raised">#231D1A</color><color name="line">#382C27</color>
+    <color name="ink">#F4EEE7</color><color name="muted">#B6A79B</color>
+    <color name="brand">#B92E2F</color><color name="brand_light">#E16C60</color>
+</resources>
